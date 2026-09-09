@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Sitemap: https://msppurewaterco.com/sitemap.xml
