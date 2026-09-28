@@ -1,5 +1,110 @@
+# MSP Pure Water welcomes search and AI answer engines.
+User-agent: Googlebot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: Applebot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
+User-agent: CCBot
+Allow: /
+Disallow: /thank-you/
+Disallow: /booked/
+Disallow: /message-received/
+
 User-agent: *
 Allow: /
 Disallow: /thank-you/
 Disallow: /booked/
+Disallow: /message-received/
+
 Sitemap: https://msppurewaterco.com/sitemap.xml
