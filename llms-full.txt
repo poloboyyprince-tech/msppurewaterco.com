@@ -16,7 +16,7 @@ MSP Pure Water publishes every price, recommends equipment for the actual water 
 - Best Price Guarantee: a lower comparable installed quote will be beaten
 - Google rating: 5.0 stars on Google
 
-## Systems and installed prices (as of September 2026)
+## Systems and installed prices (as of October 2026)
 
 ### City Water Systems
 - [Whole Home Filtration & Softening System](https://msppurewaterco.com/systems/whole-home-softener/): $2,999 installed. Softens and filters every drop of water entering your home. One high-capacity media tank handles hardness, chlorine, chloramine, taste and odor, so every faucet, shower and appliance gets treated water.
@@ -122,6 +122,9 @@ Reverse osmosis pushes water through a semipermeable membrane that rejects a bro
 
 ### Tank RO or tankless RO — what's the difference?
 A tank system slowly fills a pressurized storage tank so purified water is ready instantly. A tankless system treats water on demand, takes up far less under-sink space and has no storage tank. The tank system is $799 and the tankless HW800 AlkaPro is $999 on their own. With any whole-home system, the tank RO is included free and the tankless is a $200 upgrade.
+
+### Can the reverse osmosis system be installed in the basement?
+Yes. The standard installation puts the RO unit under the kitchen sink with its own drinking-water faucet. If you'd prefer the unit in the basement, basement RO installation is an additional $500. You can add it on any system page or just mention it on the call.
 
 ### Does the system treat every faucet?
 Whole-home systems are installed where water enters the house, so every shower, faucet and appliance receives treated water. Reverse osmosis is the exception: it treats drinking water at one dedicated faucet.
