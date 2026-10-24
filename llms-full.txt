@@ -20,27 +20,27 @@ MSP Pure Water publishes every price, recommends equipment for the actual water 
 
 ### City Water Systems
 - [Whole Home Filtration & Softening System](https://msppurewaterco.com/systems/whole-home-softener/): $2,999 installed. Softens and filters every drop of water entering your home. One high-capacity media tank handles hardness, chlorine, chloramine, taste and odor, so every faucet, shower and appliance gets treated water.
-  - Specs: Valve flow rate 28 GPM; System flow rate 28 GPM; Softening capacity 48,000 grains; Softening resin 75 lbs; Carbon 15 lbs; Media tank 12" × 52"; Brine tank 15" × 35"; Memory backup 72 hours
+  - Specs: Valve flow rate 25.5 GPM; Softening capacity 48,000 grains; Softening resin 1.5 cu. ft., 10% crosslinked (CG10); Carbon Jacobi catalytic coconut-shell carbon; Media tank 12" × 58"; Brine tank 15" × 17" × 36", holds 150 lbs of salt; Salt per regeneration 9 lbs; Water per regeneration 45–60 gallons; Electrical 110 V outlet; Control valve MSP ceramic disc valve, 72-hour memory backup
 - [Dual Tank Whole Home Filtration System](https://msppurewaterco.com/systems/dual-tank-city/): $3,999 installed. Gives the Jacobi catalytic carbon tank and the 10% crosslinked resin tank their own dedicated high-capacity vessels. Each media bed works at full strength, ideal for larger households and heavy water use.
-  - Specs: Valve flow rate 30 GPM; System flow rate 28 GPM; Softening capacity 48,000 grains per tank; Softening resin 1.5 cu. ft.; Media tanks 10" × 54"; Brine tank 15" × 35"
+  - Specs: Valve flow rate 25.5 GPM; Softening capacity 48,000 grains (dedicated resin tank); Softening resin 1.5 cu. ft., 10% crosslinked (CG10); Carbon 1.5 cu. ft. Jacobi catalytic coconut-shell carbon (dedicated tank); Media tanks Two, 10" × 60" each; Brine tank 15" × 17" × 36", holds 150 lbs of salt; Salt per regeneration 9 lbs; Water per regeneration 45–60 gallons; Electrical 110 V outlet; Control valve MSP ceramic disc valve, 72-hour memory backup
 - [Whole Home Complete Salt-Free Filtration System](https://msppurewaterco.com/systems/salt-free/): $4,499 installed. Whole-home carbon filtration plus salt-free scale conditioning. No salt bags, no brine discharge, no regeneration cycles. Keeps healthy minerals in your water while stopping them from sticking to pipes and appliances.
-  - Specs: Control valve Clack valve, 3/4" distributor; Valve flow rate 28 GPM; Softening capacity Not applicable (salt-free conditioning); Media tank 10" × 54"; Carbon volume 1.5 cu. ft.; Salt required None; Drain line Not needed
+  - Specs: Valve flow rate 25.5 GPM; Softening capacity Not applicable (salt-free conditioning); Conditioning media 10 liters, salt-free; Conditioning tank 10" × 58"; Carbon 1.5 cu. ft. Jacobi catalytic carbon, 10" × 60" tank; Salt required None; Drain line Not needed; Electricity None; Control head Clack in/out head, 3/4" distributor
 
 ### Well Water Systems
 - [Dual Tank Well Water Whole Home Filtration System](https://msppurewaterco.com/systems/dual-tank-well/): $4,499 installed. Treats the two biggest well-water problems, iron and hardness, chemical-free, and handles manganese along the way. Air-oxidation technology plus Katalox Light media stop staining while a dedicated 10% crosslinked resin tank softens your water.
-  - Specs: Valve flow rate 30 GPM; System flow rate 27 GPM; Softening capacity 48,000 grains; Softening resin 1.5 cu. ft.; Media tanks 10" × 54"; Brine tank 15" × 35"
+  - Specs: Valve flow rate 25.5 GPM; Oxidation Air injection (AIO), chemical-free; Iron-breaker tank Catalytic carbon + Katalox Light, 1 cu. ft.; Softening capacity 48,000 grains (dedicated resin tank); Softening resin 1.5 cu. ft., 10% crosslinked (CG10); Media tanks Two, 10" × 60" each; Brine tank 15" × 17" × 36", holds 150 lbs of salt; Salt per regeneration 9 lbs; Water per regeneration 45–60 gallons; Electrical 110 V outlet; Control valve MSP AIO ceramic disc valve, 72-hour memory backup
 - [Iron & Sulfur Treatment System](https://msppurewaterco.com/systems/iron-sulfur/): $5,999 installed. Our most powerful well-water solution, and the one we install for rotten-egg sulfur odor. Hydrogen peroxide oxidation destroys even severe iron and sulfur problems at the point of entry, then a dedicated Jacobi catalytic carbon tank and a 10% crosslinked resin tank finish the job.
-  - Specs: Valve flow rate 30 GPM; System flow rate 28 GPM; Softening capacity 48,000 grains per tank; Softening resin 1.5 cu. ft.; Media tanks 10" × 54"; Injection Hydrogen peroxide panel + holding tank
+  - Specs: Valve flow rate 25.5 GPM; Oxidation Hydrogen peroxide injection pump + holding tank; Carbon 1.5 cu. ft. Jacobi catalytic coconut-shell carbon (dedicated tank); Softening capacity 48,000 grains (dedicated resin tank); Softening resin 1.5 cu. ft., 10% crosslinked (CG10); Media tanks Two, 10" × 60" each; Brine tank 15" × 17" × 36", holds 150 lbs of salt; Salt per regeneration 9 lbs; Water per regeneration 45–60 gallons; Electrical 110 V outlet; Targets Iron, sulfur, bacteria, hardness; Control valve MSP ceramic disc valve, 72-hour memory backup
 
 ### Drinking Water / Reverse Osmosis
 - [HW800 AlkaPro Tankless Reverse Osmosis](https://msppurewaterco.com/systems/ro-tankless/): $999 installed. Purified, alkaline drinking water on demand, straight from a dedicated faucet at your sink. No storage tank, 70% less under-sink space, and water treated the moment you ask for it.
-  - Specs: Filtration stages 7; Filtering precision 0.0001 micron; Capacity 800 GPD; Flow rate 0.53 GPM; Drain ratio 2:1; Under-sink footprint No storage tank
-- [Traditional Tank Reverse Osmosis System](https://msppurewaterco.com/systems/ro-tank/): $799 installed. The proven multi-stage RO setup: purified water is produced continuously, stored in a pressurized steel tank, and delivered instantly the second you open the faucet.
-  - Specs: Production 50 GPD; TDS rejection 94–99%; Recovery 25–30%; System size 16" × 5.5" × 18"; Tank size 11.5" × 16"; Faucet Dedicated, chrome
+  - Specs: Filtration stages 7; Filtering precision 0.0001 micron; Membrane NSF thin-film composite, 95–99% rejection; Capacity 800 GPD; Flow rate 0.53 GPM; Drain ratio 2:1 (pure : drain); Remineralization Integrated alkaline technology; Certification NSF/ANSI 58 (TDS reduction, materials and structural integrity); NSF/ANSI 372 lead-free waterpath; Electrical 110 V outlet; Filter life Sediment/carbon 12 months, alkaline carbon 6–12 months, membrane 12 months; Faucet Dedicated; chrome, brushed nickel, brushed gold or matte black; Under-sink footprint No storage tank, up to 70% less cabinet space; Model HW800 AlkaPro
+- [Traditional Tank Reverse Osmosis System](https://msppurewaterco.com/systems/ro-tank/): $799 installed. The proven PurePro 5-stage RO setup: purified water is produced continuously, stored in a pressurized steel tank, and delivered instantly the second you open the faucet.
+  - Specs: Filtration stages 5; Production 100 GPD; TDS rejection 94–99%; Storage Pressurized tank, 11.5" × 16"; System size 16" × 5.5" × 18"; Electrical None required; Replacement filters Sediment, granular carbon, carbon block, post-carbon, 100 GPD membrane; Faucet Dedicated; chrome, brushed nickel, brushed gold or matte black; Model PurePro 5-stage
 
 ### Optional Add-Ons
 - [Pre-System Sediment Filter](https://msppurewaterco.com/systems/sediment-filter/): +$399 installed. The first line of defense on a well. Captures sand, silt, dirt and rust before they reach the resin, media and valves downstream.
-  - Specs: Housing 20" × 4.5"; Flow rate 15 GPM; Filter life ~10,000 gal.
+  - Specs: Housing 20" × 4.5"; Filtration 5 micron; Flow rate Up to 5 GPM, low pressure drop; Filter life ~10,000 gal.; Includes Housing, mounting bracket, housing wrench
 - [Whole-Home UV Purifier](https://msppurewaterco.com/systems/uv-purifier/): +$899 installed. An additional disinfection barrier for well water. UV light inactivates microorganisms as water flows through a stainless chamber. It does not remove iron, sediment or dissolved chemicals, so it is installed after filtration.
   - Specs: Chamber Stainless steel; Bulb 1 included; Placement After prefiltration
 
@@ -139,7 +139,7 @@ Whole-home systems backwash and regenerate themselves automatically. Your part i
 It depends on your water hardness and how much water your household uses. We size the system and set the regeneration schedule for your home at installation and show you how to check the brine tank.
 
 ### Will installation affect my water pressure?
-Systems are sized for real households. Our whole-home city system is rated for 28 GPM system flow and the dual-tank well system for 27 GPM, so showers, laundry and sprinklers can run together.
+Systems are sized for real households. Every whole-home system runs on a 25.5 GPM MSP ceramic disc valve with no pressure loss, so showers, laundry and sprinklers can run together.
 
 ### How long does installation take?
 Most installations are completed in a single visit. We connect the equipment to your main water line, configure it for your water and walk you through how it works before we leave.
