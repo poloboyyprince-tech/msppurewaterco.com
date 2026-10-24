@@ -25,8 +25,6 @@ MSP Pure Water publishes every price, recommends equipment for the actual water 
   - Specs: Valve flow rate 30 GPM; System flow rate 28 GPM; Softening capacity 48,000 grains per tank; Softening resin 1.5 cu. ft.; Media tanks 10" × 54"; Brine tank 15" × 35"
 - [Whole Home Complete Salt-Free Filtration System](https://msppurewaterco.com/systems/salt-free/): $4,499 installed. Whole-home carbon filtration plus salt-free scale conditioning. No salt bags, no brine discharge, no regeneration cycles. Keeps healthy minerals in your water while stopping them from sticking to pipes and appliances.
   - Specs: Control valve Clack valve, 3/4" distributor; Valve flow rate 28 GPM; Softening capacity Not applicable (salt-free conditioning); Media tank 10" × 54"; Carbon volume 1.5 cu. ft.; Salt required None; Drain line Not needed
-- [PFAS Reduction Whole Home System](https://msppurewaterco.com/systems/pfas-three-tank/): $4,999 installed. Three dedicated tanks treat city water in the right order: catalytic carbon takes out chlorine and chloramine, a full softening tank removes hardness, and a ResinTech PFAS-selective resin tank captures PFAS, the forever chemicals showing up in Minnesota water supplies. Every faucet, shower and appliance gets the treated water.
-  - Specs: Valve flow rate 28 GPM; Softening capacity 48,000 grains; PFAS resin ResinTech SIR-110-HP, 1.5 cu. ft.; Carbon Jacobi catalytic, 1.5 cu. ft.; Softening resin 10% crosslinked, 1.5 cu. ft.; Media tanks Three, 10" × 54"; Brine tank 15" × 35"; PFAS resin certification NSF/ANSI 61
 
 ### Well Water Systems
 - [Dual Tank Well Water Whole Home Filtration System](https://msppurewaterco.com/systems/dual-tank-well/): $4,499 installed. Treats the two biggest well-water problems, iron and hardness, chemical-free, and handles manganese along the way. Air-oxidation technology plus Katalox Light media stop staining while a dedicated 10% crosslinked resin tank softens your water.
@@ -81,10 +79,6 @@ Treatment: Softening removes the minerals that cause soap film. On city water, t
 Cause: Municipal utilities add chlorine or chloramine to keep water safe on its way through the distribution system. It does its job in the pipes, but the taste and smell arrive at your tap along with it.
 Treatment: The Jacobi catalytic carbon tank is selected specifically because it treats chloramine as well as free chlorine. Every whole-home city system includes it, so showers, laundry and every faucet get treated water.
 
-### PFAS / Forever Chemicals
-Cause: PFAS are man-made chemicals used for decades in nonstick coatings, firefighting foam and stain repellents. They do not break down, which is why they are called forever chemicals. Minnesota has well-documented PFAS contamination, especially in the east metro, and in 2024 the EPA set the first national drinking-water limits for PFOA and PFOS.
-Treatment: Standard carbon and softeners are not designed for PFAS. Our PFAS Reduction Whole Home System adds a dedicated tank of ResinTech PFAS-selective anion resin after the carbon and softening tanks, so PFAS is captured at every tap. For drinking water on its own, a reverse osmosis system at the kitchen sink adds a second barrier.
-
 ### Iron Staining
 Cause: Dissolved iron is common in Minnesota well water. It is invisible coming out of the well, then oxidizes on contact with air and leaves orange-brown stains on sinks, tubs, toilets and laundry.
 Treatment: Air-oxidation (AIO) treatment converts dissolved iron into solid particles inside the tank, and Katalox Light media captures them. Heavier iron loads get hydrogen peroxide injection ahead of filtration. A softener alone is not the right tool for real iron.
@@ -122,9 +116,6 @@ A water softener uses ion exchange to remove calcium and magnesium hardness. Car
 
 ### Do I need a different system for well water?
 Usually, yes. City-water treatment focuses on hardness and municipal disinfectants. Private wells often also carry iron, sulfur, manganese and sediment, which need oxidation and filtration that a softener alone cannot handle. We keep the two system lines separate so you never pay for equipment your water does not need.
-
-### Do you have a system for PFAS (forever chemicals)?
-Yes. The PFAS Reduction Whole Home System is a three-tank city-water system: a Jacobi catalytic carbon tank, a 48,000-grain softening tank, and a dedicated tank of ResinTech PFAS-selective anion resin certified to NSF/ANSI 61. It's $4,999 installed with a reverse osmosis drinking-water system included. PFAS levels vary by city, so we review your utility's water report or a PFAS test with you on the call.
 
 ### What does reverse osmosis do?
 Reverse osmosis pushes water through a semipermeable membrane that rejects a broad range of dissolved solids, then delivers the treated water to a dedicated faucet at your kitchen sink. It is a point-of-use system for drinking and cooking water, not a whole-home system, which is why we pair it with whole-home treatment.
